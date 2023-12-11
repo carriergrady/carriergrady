@@ -1,4 +1,4 @@
-### Hello, I"m Grady.
+# Hello, I'm Grady.
 
 ## I do programming as a hobby, and I am aiming for a job in the field.
 
